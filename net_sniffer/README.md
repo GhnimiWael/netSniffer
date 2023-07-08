@@ -9,7 +9,7 @@
 - Run the jar.
 
     ```
-    java -jar sniffeine-1.0.0.jar
+    java -jar netSniffer.jar
     ```
 
 # Build
