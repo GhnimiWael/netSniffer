@@ -1,7 +1,7 @@
 # About
  A network packet sniffer program which uses the **Swing** GUI widget toolkit to display packet data.
 
- It's name, is a combination of **sniff** and **caffeine**. *Java smells good*.
+ It's name, is a combination of **sniff** and **network**. *Java smells good*.
 
 # Usage
 - Install [Java](https://www.java.com/en/download) (JRE) and [Npcap](https://npcap.com) (Windows) | [libpcap](https://www.tcpdump.org) (Linux).
@@ -37,7 +37,7 @@ scoop install openjdk17 gradle git
 - Navigate to the repo's folder.
 
     ```
-    cd sniffeine
+    cd netSniffer
     ```
 - Build.
 
