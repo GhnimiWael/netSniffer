@@ -5,7 +5,7 @@
 
 # Usage
 - Install [Java](https://www.java.com/en/download) (JRE) and [Npcap](https://npcap.com) (Windows) | [libpcap](https://www.tcpdump.org) (Linux).
-- Download the jar release from the [releases](https://github.com/hyPnOtICDo0g/sniffeine/releases/latest) section.
+- Download the jar release from the build folder
 - Run the jar.
 
     ```
@@ -31,7 +31,7 @@ scoop install openjdk17 gradle git
 - Clone the repo.
 
     ```
-    git clone https://github.com/hyPnOtICDo0g/sniffeine --depth=1
+    git clone https://github.com/GhnimiWael/netSniffer
     ```
 
 - Navigate to the repo's folder.
