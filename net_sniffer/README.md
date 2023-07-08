@@ -1,7 +1,11 @@
-# About
- A network packet sniffer program which uses the **Swing** GUI widget toolkit to display packet data.
 
+# About | Network Sniffer
+ A network packet sniffer program which uses the **Swing** GUI widget toolkit to display packet data.
  It's name, is a combination of **sniff** and **network**. *Java smells good*.
+
+<p align="center" width="60%">
+    <img width="60%"src="https://i.imgur.com/vVYviMT.png"> 
+</p>
 
 # Usage
 - Install [Java](https://www.java.com/en/download) (JRE) and [Npcap](https://npcap.com) (Windows) | [libpcap](https://www.tcpdump.org) (Linux).
